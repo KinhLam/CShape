@@ -1,0 +1,22 @@
+c:\users\lhuser\documents\visual studio 2013\Projects\Project1\Project1\bin\Debug\Project1.exe.config
+c:\users\lhuser\documents\visual studio 2013\Projects\Project1\Project1\bin\Debug\Project1.exe
+c:\users\lhuser\documents\visual studio 2013\Projects\Project1\Project1\bin\Debug\Project1.pdb
+c:\users\lhuser\documents\visual studio 2013\Projects\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+c:\users\lhuser\documents\visual studio 2013\Projects\Project1\Project1\obj\Debug\Project1.FrmLogin.resources
+c:\users\lhuser\documents\visual studio 2013\Projects\Project1\Project1\obj\Debug\Project1.FrmMain.resources
+c:\users\lhuser\documents\visual studio 2013\Projects\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+c:\users\lhuser\documents\visual studio 2013\Projects\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.Cache
+c:\users\lhuser\documents\visual studio 2013\Projects\Project1\Project1\obj\Debug\Project1.exe
+c:\users\lhuser\documents\visual studio 2013\Projects\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\Akalis\Documents\GitHub\CSharpDevoloper\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\Akalis\Documents\GitHub\CSharpDevoloper\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\Akalis\Documents\GitHub\CSharpDevoloper\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\Akalis\Documents\GitHub\CSharpDevoloper\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\Akalis\Documents\GitHub\CSharpDevoloper\Project1\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Akalis\Documents\GitHub\CSharpDevoloper\Project1\Project1\obj\Debug\Project1.FrmLogin.resources
+C:\Users\Akalis\Documents\GitHub\CSharpDevoloper\Project1\Project1\obj\Debug\Project1.FrmMain.resources
+C:\Users\Akalis\Documents\GitHub\CSharpDevoloper\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\Akalis\Documents\GitHub\CSharpDevoloper\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\Akalis\Documents\GitHub\CSharpDevoloper\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Akalis\Documents\GitHub\CSharpDevoloper\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\Akalis\Documents\GitHub\CSharpDevoloper\Project1\Project1\obj\Debug\Project1.pdb
