@@ -12,3 +12,4 @@ C:\Users\Akalis\Documents\GitHub\CShape\Project_Chuong3\Project_Chuong3\obj\Debu
 C:\Users\Akalis\Documents\GitHub\CShape\Project_Chuong3\Project_Chuong3\obj\Debug\Project_Chuong3.csproj.CopyComplete
 C:\Users\Akalis\Documents\GitHub\CShape\Project_Chuong3\Project_Chuong3\obj\Debug\Project_Chuong3.exe
 C:\Users\Akalis\Documents\GitHub\CShape\Project_Chuong3\Project_Chuong3\obj\Debug\Project_Chuong3.pdb
+C:\Users\Akalis\Documents\GitHub\CShape\Project_Chuong3\Project_Chuong3\obj\Debug\Project_Chuong3.Frm_Bai3.resources

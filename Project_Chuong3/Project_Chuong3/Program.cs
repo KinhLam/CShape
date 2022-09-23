@@ -16,7 +16,7 @@ namespace Project_Chuong3
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frm_Bai2());
+            Application.Run(new Frm_Bai3());
         }
     }
 }
