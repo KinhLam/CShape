@@ -1,0 +1,14 @@
+C:\Users\Akalis\Documents\GitHub\CShape\PrJect_Chuong6\PrJect_Chuong6\bin\Debug\PrJect_Chuong6.exe.config
+C:\Users\Akalis\Documents\GitHub\CShape\PrJect_Chuong6\PrJect_Chuong6\bin\Debug\PrJect_Chuong6.exe
+C:\Users\Akalis\Documents\GitHub\CShape\PrJect_Chuong6\PrJect_Chuong6\bin\Debug\PrJect_Chuong6.pdb
+C:\Users\Akalis\Documents\GitHub\CShape\PrJect_Chuong6\PrJect_Chuong6\obj\Debug\PrJect_Chuong6.csproj.AssemblyReference.cache
+C:\Users\Akalis\Documents\GitHub\CShape\PrJect_Chuong6\PrJect_Chuong6\obj\Debug\PrJect_Chuong6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Akalis\Documents\GitHub\CShape\PrJect_Chuong6\PrJect_Chuong6\obj\Debug\PrJect_Chuong6.Form1.resources
+C:\Users\Akalis\Documents\GitHub\CShape\PrJect_Chuong6\PrJect_Chuong6\obj\Debug\PrJect_Chuong6.Properties.Resources.resources
+C:\Users\Akalis\Documents\GitHub\CShape\PrJect_Chuong6\PrJect_Chuong6\obj\Debug\PrJect_Chuong6.csproj.GenerateResource.cache
+C:\Users\Akalis\Documents\GitHub\CShape\PrJect_Chuong6\PrJect_Chuong6\obj\Debug\PrJect_Chuong6.csproj.CoreCompileInputs.cache
+C:\Users\Akalis\Documents\GitHub\CShape\PrJect_Chuong6\PrJect_Chuong6\obj\Debug\PrJect_Chuong6.exe
+C:\Users\Akalis\Documents\GitHub\CShape\PrJect_Chuong6\PrJect_Chuong6\obj\Debug\PrJect_Chuong6.pdb
+C:\Users\Akalis\Documents\GitHub\CShape\PrJect_Chuong6\PrJect_Chuong6\obj\Debug\PrJect_Chuong6.frm_FlowLayoutPanel.resources
+C:\Users\Akalis\Documents\GitHub\CShape\PrJect_Chuong6\PrJect_Chuong6\obj\Debug\PrJect_Chuong6.Frm_TabControl.resources
+C:\Users\Akalis\Documents\GitHub\CShape\PrJect_Chuong6\PrJect_Chuong6\obj\Debug\PrJect_Chuong6.Frm_SlpitContainer.resources
