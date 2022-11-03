@@ -1,0 +1,12 @@
+C:\Users\Akalis\Documents\GitHub\CShape\ProJ_Chuong9\ProJ_Chuong9\bin\Debug\ProJ_Chuong9.exe.config
+C:\Users\Akalis\Documents\GitHub\CShape\ProJ_Chuong9\ProJ_Chuong9\bin\Debug\ProJ_Chuong9.exe
+C:\Users\Akalis\Documents\GitHub\CShape\ProJ_Chuong9\ProJ_Chuong9\bin\Debug\ProJ_Chuong9.pdb
+C:\Users\Akalis\Documents\GitHub\CShape\ProJ_Chuong9\ProJ_Chuong9\obj\Debug\ProJ_Chuong9.csproj.AssemblyReference.cache
+C:\Users\Akalis\Documents\GitHub\CShape\ProJ_Chuong9\ProJ_Chuong9\obj\Debug\ProJ_Chuong9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Akalis\Documents\GitHub\CShape\ProJ_Chuong9\ProJ_Chuong9\obj\Debug\ProJ_Chuong9.Form1.resources
+C:\Users\Akalis\Documents\GitHub\CShape\ProJ_Chuong9\ProJ_Chuong9\obj\Debug\ProJ_Chuong9.Properties.Resources.resources
+C:\Users\Akalis\Documents\GitHub\CShape\ProJ_Chuong9\ProJ_Chuong9\obj\Debug\ProJ_Chuong9.UC_KtraSoNguyenTo.resources
+C:\Users\Akalis\Documents\GitHub\CShape\ProJ_Chuong9\ProJ_Chuong9\obj\Debug\ProJ_Chuong9.csproj.GenerateResource.cache
+C:\Users\Akalis\Documents\GitHub\CShape\ProJ_Chuong9\ProJ_Chuong9\obj\Debug\ProJ_Chuong9.csproj.CoreCompileInputs.cache
+C:\Users\Akalis\Documents\GitHub\CShape\ProJ_Chuong9\ProJ_Chuong9\obj\Debug\ProJ_Chuong9.exe
+C:\Users\Akalis\Documents\GitHub\CShape\ProJ_Chuong9\ProJ_Chuong9\obj\Debug\ProJ_Chuong9.pdb
