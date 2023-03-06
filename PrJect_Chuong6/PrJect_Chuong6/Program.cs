@@ -16,7 +16,7 @@ namespace PrJect_Chuong6
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frm_SlpitContainer());
+            Application.Run(new Form1());
         }
     }
 }

@@ -4,7 +4,6 @@ C:\Users\Akalis\Documents\GitHub\CShape\Project_Chuong3\Project_Chuong3\bin\Debu
 C:\Users\Akalis\Documents\GitHub\CShape\Project_Chuong3\Project_Chuong3\bin\Debug\MyLibrary.dll
 C:\Users\Akalis\Documents\GitHub\CShape\Project_Chuong3\Project_Chuong3\bin\Debug\MyLibrary.pdb
 C:\Users\Akalis\Documents\GitHub\CShape\Project_Chuong3\Project_Chuong3\obj\Debug\Project_Chuong3.csproj.AssemblyReference.cache
-C:\Users\Akalis\Documents\GitHub\CShape\Project_Chuong3\Project_Chuong3\obj\Debug\Project_Chuong3.csproj.SuggestedBindingRedirects.cache
 C:\Users\Akalis\Documents\GitHub\CShape\Project_Chuong3\Project_Chuong3\obj\Debug\Project_Chuong3.Frm_Bai2.resources
 C:\Users\Akalis\Documents\GitHub\CShape\Project_Chuong3\Project_Chuong3\obj\Debug\Project_Chuong3.Properties.Resources.resources
 C:\Users\Akalis\Documents\GitHub\CShape\Project_Chuong3\Project_Chuong3\obj\Debug\Project_Chuong3.csproj.GenerateResource.cache

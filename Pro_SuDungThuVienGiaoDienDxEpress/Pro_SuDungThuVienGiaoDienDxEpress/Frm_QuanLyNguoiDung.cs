@@ -29,6 +29,12 @@ namespace Pro_SuDungThuVienGiaoDienDxEpress
         private void buttonX1_Click(object sender, EventArgs e)
         {
             DongTab();
+            
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
